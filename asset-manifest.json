@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chaperoneapp/static/css/main.6a2d1130.css",
-    "main.js": "/chaperoneapp/static/js/main.b387f9fb.js",
-    "static/js/453.5f24f097.chunk.js": "/chaperoneapp/static/js/453.5f24f097.chunk.js",
-    "index.html": "/chaperoneapp/index.html",
-    "main.6a2d1130.css.map": "/chaperoneapp/static/css/main.6a2d1130.css.map",
-    "main.b387f9fb.js.map": "/chaperoneapp/static/js/main.b387f9fb.js.map",
-    "453.5f24f097.chunk.js.map": "/chaperoneapp/static/js/453.5f24f097.chunk.js.map"
+    "main.css": "/Plantnurseryapp/static/css/main.6a2d1130.css",
+    "main.js": "/Plantnurseryapp/static/js/main.b381b33a.js",
+    "static/js/453.5f24f097.chunk.js": "/Plantnurseryapp/static/js/453.5f24f097.chunk.js",
+    "index.html": "/Plantnurseryapp/index.html",
+    "main.6a2d1130.css.map": "/Plantnurseryapp/static/css/main.6a2d1130.css.map",
+    "main.b381b33a.js.map": "/Plantnurseryapp/static/js/main.b381b33a.js.map",
+    "453.5f24f097.chunk.js.map": "/Plantnurseryapp/static/js/453.5f24f097.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a2d1130.css",
-    "static/js/main.b387f9fb.js"
+    "static/js/main.b381b33a.js"
   ]
 }
